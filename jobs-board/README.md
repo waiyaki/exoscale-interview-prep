@@ -6,7 +6,7 @@ A simple mock HTTP API for a minimalist job board application.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Clone this repository and `cd` into `jobs-board`
 
 ## Usage
 
